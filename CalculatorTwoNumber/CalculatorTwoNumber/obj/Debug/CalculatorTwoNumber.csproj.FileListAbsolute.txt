@@ -1,0 +1,9 @@
+c:\users\ac\documents\visual studio 2015\Projects\CalculatorTwoNumber\CalculatorTwoNumber\bin\Debug\CalculatorTwoNumber.exe.config
+c:\users\ac\documents\visual studio 2015\Projects\CalculatorTwoNumber\CalculatorTwoNumber\obj\Debug\CalculatorTwoNumber.csprojResolveAssemblyReference.cache
+c:\users\ac\documents\visual studio 2015\Projects\CalculatorTwoNumber\CalculatorTwoNumber\obj\Debug\CalculatorTwoNumber.Form1.resources
+c:\users\ac\documents\visual studio 2015\Projects\CalculatorTwoNumber\CalculatorTwoNumber\obj\Debug\CalculatorTwoNumber.Properties.Resources.resources
+c:\users\ac\documents\visual studio 2015\Projects\CalculatorTwoNumber\CalculatorTwoNumber\obj\Debug\CalculatorTwoNumber.csproj.GenerateResource.Cache
+c:\users\ac\documents\visual studio 2015\Projects\CalculatorTwoNumber\CalculatorTwoNumber\bin\Debug\CalculatorTwoNumber.exe
+c:\users\ac\documents\visual studio 2015\Projects\CalculatorTwoNumber\CalculatorTwoNumber\bin\Debug\CalculatorTwoNumber.pdb
+c:\users\ac\documents\visual studio 2015\Projects\CalculatorTwoNumber\CalculatorTwoNumber\obj\Debug\CalculatorTwoNumber.exe
+c:\users\ac\documents\visual studio 2015\Projects\CalculatorTwoNumber\CalculatorTwoNumber\obj\Debug\CalculatorTwoNumber.pdb
